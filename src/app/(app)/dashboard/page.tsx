@@ -1,3 +1,5 @@
+'use client'
+
 import { toast, useToast } from '@/components/hooks/use-toast'
 import { MessageCard } from '@/components/MessageCard'
 import { Button } from '@/components/ui/button'
