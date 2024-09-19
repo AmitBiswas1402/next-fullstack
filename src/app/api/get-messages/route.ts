@@ -8,15 +8,15 @@ import mongoose from "mongoose";
 export async function GET(request: Request) {
   await dbConnect();
   const session = await getServerSession(authOptions);
-  const _user: User = session?.user;
+  const user: User = session?.user;
 
-  if (!session || !_user) {
+  if (!session || !user) {
     return Response.json(
       { success: false, message: "Not authenticated" },
       { status: 401 }
     );
   }
-  const userId = new mongoose.Types.ObjectId(_user._id);
+  const userId = new mongoose.Types.ObjectId(user._id);
   try {
     const user = await UserModel.aggregate([
       { $match: { _id: userId } },
