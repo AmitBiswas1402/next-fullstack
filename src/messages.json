@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Message from User123",
+    "content": "Hey, how are you doing today?",
+    "received": "10 minutes ago"
+  },
+  {
+    "title": "Message from SecretAdmirer",
+    "content": "I really liked your recent post!",
+    "received": "2 hours ago"
+  },
+  {
+    "title": "Message from MysteryGuest",
+    "content": "Do you have any book recommendations?",
+    "received": "1 day ago"
+  },
+  {
+    "title": "Message from MovieBuff",
+    "content": "Have you seen the new thriller?",
+    "received": "30 minutes ago"
+  },
+  {
+    "title": "Message from TravelLover",
+    "content": "Planning any trips soon?",
+    "received": "3 hours ago"
+  },
+  {
+    "title": "Message from GamerDude",
+    "content": "Up for a game tonight?",
+    "received": "5 hours ago"
+  },
+  {
+    "title": "Message from ChefMaster",
+    "content": "Try this new recipe I found!",
+    "received": "7 hours ago"
+  },
+  {
+    "title": "Message from FitnessFreak",
+    "content": "Ready for tomorrow’s workout?",
+    "received": "12 hours ago"
+  },
+  {
+    "title": "Message from ArtFanatic",
+    "content": "Your last drawing was amazing!",
+    "received": "14 hours ago"
+  },
+  {
+    "title": "Message from MusicLover",
+    "content": "What’s your current favorite song?",
+    "received": "16 hours ago"
+  },
+  {
+    "title": "Message from TechGuru",
+    "content": "Need help with your new gadget?",
+    "received": "18 hours ago"
+  },
+  {
+    "title": "Message from HistoryBuff",
+    "content": "Have you heard about this historical fact?",
+    "received": "1 day ago"
+  },
+  {
+    "title": "Message from MovieCritic",
+    "content": "That last movie was a masterpiece!",
+    "received": "1 day ago"
+  },
+  {
+    "title": "Message from MysteryWriter",
+    "content": "I’ve been writing something new. Wanna read it?",
+    "received": "2 days ago"
+  },
+  {
+    "title": "Message from AdventureSeeker",
+    "content": "I just got back from a crazy trip!",
+    "received": "2 days ago"
+  },
+  {
+    "title": "Message from Bookworm",
+    "content": "Have you read any good books lately?",
+    "received": "3 days ago"
+  },
+  {
+    "title": "Message from NatureLover",
+    "content": "Check out these photos I took on my hike.",
+    "received": "4 days ago"
+  },
+  {
+    "title": "Message from DogLover",
+    "content": "Here’s a cute picture of my dog!",
+    "received": "5 days ago"
+  },
+  {
+    "title": "Message from CatPerson",
+    "content": "My cat did something hilarious today.",
+    "received": "6 days ago"
+  },
+  {
+    "title": "Message from FitnessCoach",
+    "content": "How’s your training going?",
+    "received": "1 week ago"
+  }
+]
